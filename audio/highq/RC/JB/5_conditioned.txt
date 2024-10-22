@@ -1,0 +1,305 @@
+start-of-tags
+start-of-genre
+tag_genre_Jazz/Blues
+start-of-complexity
+tag_complexity_None
+start-of-composer
+tag_composer_None
+start-of-instrument
+tag_instrument_trumpet
+start-of-notes
+position_0 instrument_trumpet pitch_65 duration_24
+beat_2
+position_0 instrument_trumpet pitch_70 duration_24
+beat_4
+position_0 instrument_trumpet pitch_65 duration_6
+position_0 instrument_trumpet pitch_67 duration_6
+position_6 instrument_trumpet pitch_68 duration_6
+beat_5
+position_0 instrument_trumpet pitch_72 duration_6
+position_6 instrument_trumpet pitch_69 duration_6
+beat_6
+position_6 instrument_trumpet pitch_72 duration_6
+beat_7
+position_6 instrument_trumpet pitch_74 duration_18
+beat_9
+position_0 instrument_trumpet pitch_77 duration_24
+beat_11
+position_0 instrument_trumpet pitch_75 duration_8
+position_8 instrument_trumpet pitch_72 duration_8
+beat_12
+position_4 instrument_trumpet pitch_69 duration_8
+beat_13
+position_0 instrument_trumpet pitch_65 duration_8
+position_8 instrument_trumpet pitch_62 duration_2
+position_10 instrument_trumpet pitch_60 duration_2
+beat_14
+position_0 instrument_trumpet pitch_57 duration_2
+position_2 instrument_trumpet pitch_60 duration_2
+position_4 instrument_trumpet pitch_63 duration_2
+beat_15
+position_0 instrument_trumpet pitch_71 duration_2
+position_2 instrument_trumpet pitch_72 duration_2
+position_4 instrument_trumpet pitch_72 duration_2
+position_6 instrument_trumpet pitch_72 duration_4
+position_10 instrument_trumpet pitch_72 duration_2
+beat_16
+position_0 instrument_trumpet pitch_72 duration_4
+position_4 instrument_trumpet pitch_72 duration_2
+position_6 instrument_trumpet pitch_72 duration_2
+position_8 instrument_trumpet pitch_72 duration_2
+position_10 instrument_trumpet pitch_74 duration_12
+beat_17
+position_10 instrument_trumpet pitch_71 duration_2
+beat_18
+position_0 instrument_trumpet pitch_67 duration_2
+position_2 instrument_trumpet pitch_65 duration_6
+position_2 instrument_trumpet pitch_67 duration_6
+position_2 instrument_trumpet pitch_71 duration_6
+beat_19
+position_4 instrument_trumpet pitch_79 duration_2
+position_6 instrument_trumpet pitch_75 duration_2
+position_8 instrument_trumpet pitch_60 duration_6
+position_8 instrument_trumpet pitch_67 duration_6
+position_8 instrument_trumpet pitch_72 duration_6
+beat_20
+position_2 instrument_trumpet pitch_63 duration_2
+position_4 instrument_trumpet pitch_60 duration_8
+position_10 instrument_trumpet pitch_75 duration_2
+beat_21
+position_0 instrument_trumpet pitch_72 duration_2
+position_2 instrument_trumpet pitch_70 duration_2
+position_4 instrument_trumpet pitch_67 duration_2
+position_6 instrument_trumpet pitch_63 duration_2
+position_6 instrument_trumpet pitch_67 duration_2
+position_6 instrument_trumpet pitch_74 duration_2
+position_8 instrument_trumpet pitch_72 duration_2
+position_10 instrument_trumpet pitch_70 duration_4
+beat_22
+position_2 instrument_trumpet pitch_67 duration_2
+position_4 instrument_trumpet pitch_60 duration_2
+position_4 instrument_trumpet pitch_63 duration_2
+position_4 instrument_trumpet pitch_69 duration_2
+position_6 instrument_trumpet pitch_67 duration_2
+position_8 instrument_trumpet pitch_70 duration_2
+position_10 instrument_trumpet pitch_67 duration_6
+beat_23
+position_10 instrument_trumpet pitch_75 duration_2
+beat_24
+position_0 instrument_trumpet pitch_72 duration_2
+position_2 instrument_trumpet pitch_67 duration_2
+position_2 instrument_trumpet pitch_70 duration_2
+position_4 instrument_trumpet pitch_65 duration_2
+position_6 instrument_trumpet pitch_60 duration_2
+position_6 instrument_trumpet pitch_63 duration_2
+position_6 instrument_trumpet pitch_69 duration_2
+position_8 instrument_trumpet pitch_55 duration_2
+position_10 instrument_trumpet pitch_60 duration_8
+beat_25
+position_6 instrument_trumpet pitch_76 duration_2
+position_8 instrument_trumpet pitch_72 duration_2
+position_10 instrument_trumpet pitch_69 duration_2
+beat_26
+position_0 instrument_trumpet pitch_65 duration_2
+position_2 instrument_trumpet pitch_58 duration_2
+position_2 instrument_trumpet pitch_61 duration_2
+position_2 instrument_trumpet pitch_68 duration_2
+position_4 instrument_trumpet pitch_56 duration_2
+position_6 instrument_trumpet pitch_58 duration_2
+position_6 instrument_trumpet pitch_61 duration_2
+position_6 instrument_trumpet pitch_66 duration_2
+position_8 instrument_trumpet pitch_56 duration_8
+beat_27
+position_4 instrument_trumpet pitch_65 duration_4
+beat_29
+position_5 instrument_trumpet pitch_60 duration_2
+position_7 instrument_trumpet pitch_58 duration_2
+position_9 instrument_trumpet pitch_56 duration_2
+position_11 instrument_trumpet pitch_55 duration_2
+beat_30
+position_1 instrument_trumpet pitch_58 duration_2
+position_3 instrument_trumpet pitch_60 duration_1
+position_4 instrument_trumpet pitch_63 duration_2
+position_6 instrument_trumpet pitch_70 duration_8
+beat_31
+position_2 instrument_trumpet pitch_67 duration_4
+position_6 instrument_trumpet pitch_70 duration_4
+beat_32
+position_1 instrument_trumpet pitch_59 duration_2
+position_3 instrument_trumpet pitch_58 duration_2
+position_5 instrument_trumpet pitch_55 duration_2
+position_7 instrument_trumpet pitch_60 duration_4
+position_11 instrument_trumpet pitch_58 duration_2
+beat_33
+position_1 instrument_trumpet pitch_62 duration_2
+position_3 instrument_trumpet pitch_61 duration_6
+position_3 instrument_trumpet pitch_63 duration_2
+position_5 instrument_trumpet pitch_64 duration_2
+position_7 instrument_trumpet pitch_67 duration_6
+position_7 instrument_trumpet pitch_68 duration_2
+beat_34
+position_1 instrument_trumpet pitch_63 duration_6
+position_7 instrument_trumpet pitch_79 duration_4
+beat_35
+position_11 instrument_trumpet pitch_78 duration_4
+beat_36
+position_3 instrument_trumpet pitch_80 duration_4
+position_7 instrument_trumpet pitch_72 duration_2
+position_9 instrument_trumpet pitch_77 duration_4
+beat_37
+position_7 instrument_trumpet pitch_61 duration_2
+position_9 instrument_trumpet pitch_63 duration_2
+position_11 instrument_trumpet pitch_58 duration_2
+beat_38
+position_1 instrument_trumpet pitch_63 duration_2
+position_3 instrument_trumpet pitch_67 duration_2
+position_5 instrument_trumpet pitch_66 duration_2
+position_7 instrument_trumpet pitch_61 duration_2
+position_9 instrument_trumpet pitch_68 duration_2
+position_11 instrument_trumpet pitch_65 duration_2
+beat_39
+position_1 instrument_trumpet pitch_61 duration_2
+position_3 instrument_trumpet pitch_68 duration_2
+position_5 instrument_trumpet pitch_72 duration_2
+position_7 instrument_trumpet pitch_71 duration_2
+position_9 instrument_trumpet pitch_70 duration_2
+position_11 instrument_trumpet pitch_71 duration_2
+beat_40
+position_1 instrument_trumpet pitch_80 duration_9
+position_10 instrument_trumpet pitch_80 duration_12
+beat_43
+position_10 instrument_trumpet pitch_73 duration_2
+beat_44
+position_0 instrument_trumpet pitch_71 duration_2
+position_2 instrument_trumpet pitch_70 duration_2
+position_4 instrument_trumpet pitch_68 duration_2
+position_6 instrument_trumpet pitch_66 duration_2
+position_8 instrument_trumpet pitch_64 duration_2
+position_10 instrument_trumpet pitch_64 duration_8
+position_10 instrument_trumpet pitch_72 duration_2
+beat_45
+position_0 instrument_trumpet pitch_70 duration_2
+position_2 instrument_trumpet pitch_68 duration_2
+position_4 instrument_trumpet pitch_70 duration_2
+position_6 instrument_trumpet pitch_72 duration_2
+position_8 instrument_trumpet pitch_69 duration_2
+position_10 instrument_trumpet pitch_67 duration_2
+beat_46
+position_0 instrument_trumpet pitch_66 duration_2
+position_2 instrument_trumpet pitch_72 duration_2
+position_4 instrument_trumpet pitch_70 duration_2
+position_6 instrument_trumpet pitch_68 duration_2
+position_8 instrument_trumpet pitch_67 duration_2
+position_10 instrument_trumpet pitch_66 duration_2
+beat_47
+position_0 instrument_trumpet pitch_60 duration_4
+position_0 instrument_trumpet pitch_67 duration_2
+position_2 instrument_trumpet pitch_66 duration_2
+position_4 instrument_trumpet pitch_55 duration_4
+position_4 instrument_trumpet pitch_61 duration_8
+beat_48
+position_0 instrument_trumpet pitch_56 duration_2
+position_2 instrument_trumpet pitch_58 duration_2
+position_4 instrument_trumpet pitch_60 duration_2
+position_6 instrument_trumpet pitch_64 duration_2
+position_8 instrument_trumpet pitch_56 duration_2
+position_8 instrument_trumpet pitch_60 duration_2
+position_10 instrument_trumpet pitch_66 duration_2
+beat_49
+position_0 instrument_trumpet pitch_63 duration_2
+position_2 instrument_trumpet pitch_66 duration_16
+position_2 instrument_trumpet pitch_72 duration_2
+position_4 instrument_trumpet pitch_67 duration_2
+position_6 instrument_trumpet pitch_66 duration_2
+position_8 instrument_trumpet pitch_64 duration_2
+position_10 instrument_trumpet pitch_63 duration_2
+beat_50
+position_0 instrument_trumpet pitch_60 duration_2
+position_2 instrument_trumpet pitch_58 duration_2
+position_4 instrument_trumpet pitch_60 duration_2
+position_6 instrument_trumpet pitch_73 duration_8
+beat_51
+position_2 instrument_trumpet pitch_74 duration_4
+position_2 instrument_trumpet pitch_75 duration_4
+position_6 instrument_trumpet pitch_72 duration_4
+position_10 instrument_trumpet pitch_75 duration_4
+beat_52
+position_2 instrument_trumpet pitch_76 duration_4
+position_2 instrument_trumpet pitch_77 duration_4
+position_6 instrument_trumpet pitch_80 duration_4
+position_10 instrument_trumpet pitch_69 duration_4
+beat_53
+position_2 instrument_trumpet pitch_69 duration_4
+position_6 instrument_trumpet pitch_72 duration_2
+position_8 instrument_trumpet pitch_75 duration_2
+position_10 instrument_trumpet pitch_72 duration_2
+beat_54
+position_0 instrument_trumpet pitch_75 duration_4
+position_4 instrument_trumpet pitch_74 duration_4
+position_4 instrument_trumpet pitch_75 duration_4
+position_8 instrument_trumpet pitch_72 duration_4
+beat_55
+position_0 instrument_trumpet pitch_70 duration_4
+position_4 instrument_trumpet pitch_67 duration_8
+beat_56
+position_0 instrument_trumpet pitch_65 duration_8
+position_0 instrument_trumpet pitch_69 duration_16
+position_8 instrument_trumpet pitch_60 duration_4
+beat_57
+position_0 instrument_trumpet pitch_60 duration_2
+position_2 instrument_trumpet pitch_63 duration_2
+position_4 instrument_trumpet pitch_60 duration_2
+position_4 instrument_trumpet pitch_66 duration_2
+position_6 instrument_trumpet pitch_69 duration_2
+position_6 instrument_trumpet pitch_72 duration_12
+position_8 instrument_trumpet pitch_55 duration_2
+position_10 instrument_trumpet pitch_65 duration_2
+beat_58
+position_0 instrument_trumpet pitch_60 duration_2
+position_2 instrument_trumpet pitch_63 duration_2
+position_4 instrument_trumpet pitch_60 duration_2
+position_6 instrument_trumpet pitch_69 duration_2
+position_6 instrument_trumpet pitch_71 duration_2
+position_8 instrument_trumpet pitch_63 duration_2
+position_8 instrument_trumpet pitch_72 duration_2
+position_10 instrument_trumpet pitch_65 duration_2
+position_10 instrument_trumpet pitch_69 duration_2
+beat_59
+position_0 instrument_trumpet pitch_60 duration_2
+position_0 instrument_trumpet pitch_69 duration_2
+position_2 instrument_trumpet pitch_69 duration_4
+position_6 instrument_trumpet pitch_67 duration_2
+position_8 instrument_trumpet pitch_65 duration_2
+position_10 instrument_trumpet pitch_60 duration_2
+beat_60
+position_0 instrument_trumpet pitch_58 duration_2
+position_0 instrument_trumpet pitch_58 duration_4
+position_0 instrument_trumpet pitch_62 duration_2
+position_2 instrument_trumpet pitch_57 duration_2
+position_2 instrument_trumpet pitch_63 duration_2
+position_4 instrument_trumpet pitch_56 duration_8
+position_4 instrument_trumpet pitch_65 duration_2
+position_6 instrument_trumpet pitch_58 duration_2
+position_8 instrument_trumpet pitch_62 duration_2
+position_10 instrument_trumpet pitch_63 duration_2
+beat_61
+position_0 instrument_trumpet pitch_65 duration_2
+position_0 instrument_trumpet pitch_67 duration_2
+position_2 instrument_trumpet pitch_58 duration_2
+position_2 instrument_trumpet pitch_61 duration_2
+position_4 instrument_trumpet pitch_62 duration_2
+position_4 instrument_trumpet pitch_62 duration_4
+position_6 instrument_trumpet pitch_58 duration_2
+position_8 instrument_trumpet pitch_66 duration_2
+position_8 instrument_trumpet pitch_67 duration_2
+position_10 instrument_trumpet pitch_63 duration_2
+position_10 instrument_trumpet pitch_70 duration_2
+beat_62
+position_0 instrument_trumpet pitch_58 duration_2
+position_0 instrument_trumpet pitch_64 duration_2
+position_0 instrument_trumpet pitch_65 duration_12
+position_2 instrument_trumpet pitch_62 duration_2
+position_2 instrument_trumpet pitch_65 duration_2
+position_4 instrument_trumpet pitch_56 duration_12
+position_4 instrument_trumpet pitch_58 duration_2 duration_2
+end-of-song

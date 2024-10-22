@@ -1,0 +1,296 @@
+start-of-tags
+start-of-genre
+tag_genre_Classical/Traditional
+start-of-composer
+tag_composer_wolfgang amadeus mozart
+start-of-complexity
+tag_complexity_1
+start-of-instrument
+tag_instrument_piano
+start-of-notes
+position_0 instrument_piano pitch_77 duration_12
+beat_1
+position_0 instrument_piano pitch_65 duration_12
+position_0 instrument_piano pitch_72 duration_6
+position_6 instrument_piano pitch_69 duration_6
+beat_2
+position_0 instrument_piano pitch_60 duration_12
+position_0 instrument_piano pitch_65 duration_12
+beat_3
+position_0 instrument_piano pitch_60 duration_24
+position_0 instrument_piano pitch_65 duration_24
+position_0 instrument_piano pitch_69 duration_12
+beat_4
+position_0 instrument_piano pitch_70 duration_12
+beat_5
+position_0 instrument_piano pitch_60 duration_12
+position_0 instrument_piano pitch_65 duration_12
+position_0 instrument_piano pitch_74 duration_12
+beat_6
+position_0 instrument_piano pitch_62 duration_24
+position_0 instrument_piano pitch_65 duration_12
+position_0 instrument_piano pitch_65 duration_36
+beat_7
+position_0 instrument_piano pitch_67 duration_12
+beat_8
+position_0 instrument_piano pitch_60 duration_24
+position_0 instrument_piano pitch_69 duration_12
+beat_9
+position_0 instrument_piano pitch_64 duration_24
+position_0 instrument_piano pitch_70 duration_12
+beat_10
+position_0 instrument_piano pitch_55 duration_12
+position_0 instrument_piano pitch_69 duration_6
+position_6 instrument_piano pitch_67 duration_6
+beat_11
+position_0 instrument_piano pitch_60 duration_12
+position_0 instrument_piano pitch_64 duration_12
+position_0 instrument_piano pitch_69 duration_6
+position_6 instrument_piano pitch_70 duration_6
+beat_12
+position_0 instrument_piano pitch_60 duration_6
+position_0 instrument_piano pitch_65 duration_24
+position_0 instrument_piano pitch_72 duration_12
+position_6 instrument_piano pitch_65 duration_6
+beat_13
+position_0 instrument_piano pitch_70 duration_6
+position_6 instrument_piano pitch_69 duration_6
+beat_14
+position_0 instrument_piano pitch_64 duration_24
+position_0 instrument_piano pitch_67 duration_12
+beat_15
+position_0 instrument_piano pitch_72 duration_12
+beat_16
+position_0 instrument_piano pitch_65 duration_12
+position_0 instrument_piano pitch_72 duration_12
+beat_17
+position_0 instrument_piano pitch_65 duration_24
+position_0 instrument_piano pitch_69 duration_12
+beat_18
+position_0 instrument_piano pitch_76 duration_6
+position_0 instrument_piano pitch_77 duration_12
+beat_19
+position_0 instrument_piano pitch_60 duration_12
+position_0 instrument_piano pitch_70 duration_12
+beat_20
+position_0 instrument_piano pitch_62 duration_24
+position_0 instrument_piano pitch_64 duration_12
+beat_21
+position_0 instrument_piano pitch_65 duration_12
+beat_22
+position_0 instrument_piano pitch_60 duration_24
+position_0 instrument_piano pitch_62 duration_12
+beat_23
+position_0 instrument_piano pitch_60 duration_12
+beat_24
+position_0 instrument_piano pitch_77 duration_12
+beat_25
+position_0 instrument_piano pitch_65 duration_12
+position_0 instrument_piano pitch_72 duration_6
+position_6 instrument_piano pitch_69 duration_6
+beat_26
+position_0 instrument_piano pitch_60 duration_12
+position_0 instrument_piano pitch_64 duration_12
+position_0 instrument_piano pitch_70 duration_12
+position_0 instrument_piano pitch_82 duration_12
+beat_27
+position_0 instrument_piano pitch_62 duration_24
+position_0 instrument_piano pitch_65 duration_24
+position_0 instrument_piano pitch_70 duration_12
+position_0 instrument_piano pitch_82 duration_12
+beat_28
+position_0 instrument_piano pitch_65 duration_12
+position_0 instrument_piano pitch_81 duration_9
+position_9 instrument_piano pitch_77 duration_3
+beat_29
+position_0 instrument_piano pitch_60 duration_24
+position_0 instrument_piano pitch_64 duration_12
+position_0 instrument_piano pitch_81 duration_12
+beat_30
+position_0 instrument_piano pitch_65 duration_12
+position_0 instrument_piano pitch_70 duration_12
+position_0 instrument_piano pitch_79 duration_9
+position_9 instrument_piano pitch_76 duration_3
+beat_31
+position_0 instrument_piano pitch_70 duration_12
+position_0 instrument_piano pitch_74 duration_12
+beat_32
+position_0 instrument_piano pitch_60 duration_12
+position_0 instrument_piano pitch_64 duration_12
+position_0 instrument_piano pitch_70 duration_12
+position_0 instrument_piano pitch_72 duration_12
+beat_33
+position_0 instrument_piano pitch_62 duration_24
+position_0 instrument_piano pitch_65 duration_12
+position_0 instrument_piano pitch_65 duration_24
+beat_34
+position_0 instrument_piano pitch_65 duration_12
+beat_35
+position_0 instrument_piano pitch_60 duration_12
+position_0 instrument_piano pitch_60 duration_24
+position_0 instrument_piano pitch_68 duration_12
+beat_36
+position_0 instrument_piano pitch_58 duration_24
+position_0 instrument_piano pitch_64 duration_12
+position_0 instrument_piano pitch_76 duration_6
+position_6 instrument_piano pitch_74 duration_6
+beat_37
+position_0 instrument_piano pitch_58 duration_24
+position_0 instrument_piano pitch_62 duration_12
+position_0 instrument_piano pitch_72 duration_12
+beat_38
+position_0 instrument_piano pitch_60 duration_12
+position_0 instrument_piano pitch_62 duration_12
+position_0 instrument_piano pitch_70 duration_12
+beat_39
+position_0 instrument_piano pitch_60 duration_12
+position_0 instrument_piano pitch_60 duration_24
+position_0 instrument_piano pitch_62 duration_12
+position_0 instrument_piano pitch_69 duration_12
+beat_40
+position_0 instrument_piano pitch_60 duration_12
+position_0 instrument_piano pitch_66 duration_12
+position_0 instrument_piano pitch_67 duration_18
+beat_41
+position_0 instrument_piano pitch_60 duration_12
+position_0 instrument_piano pitch_62 duration_12
+position_0 instrument_piano pitch_66 duration_12
+beat_42
+position_0 instrument_piano pitch_60 duration_24
+position_0 instrument_piano pitch_63 duration_12
+position_0 instrument_piano pitch_65 duration_6
+position_0 instrument_piano pitch_65 duration_24
+position_0 instrument_piano pitch_77 duration_6
+position_6 instrument_piano pitch_67 duration_6
+position_6 instrument_piano pitch_76 duration_6
+beat_43
+position_0 instrument_piano pitch_60 duration_24
+position_0 instrument_piano pitch_65 duration_12
+position_0 instrument_piano pitch_74 duration_12
+beat_44
+position_0 instrument_piano pitch_63 duration_6
+position_0 instrument_piano pitch_65 duration_12
+position_0 instrument_piano pitch_68 duration_6
+position_6 instrument_piano pitch_65 duration_6
+position_6 instrument_piano pitch_69 duration_6
+beat_45
+position_0 instrument_piano pitch_60 duration_24
+position_0 instrument_piano pitch_62 duration_12
+position_0 instrument_piano pitch_65 duration_6
+position_0 instrument_piano pitch_76 duration_12
+position_6 instrument_piano pitch_68 duration_6
+beat_46
+position_0 instrument_piano pitch_60 duration_12
+position_0 instrument_piano pitch_64 duration_12
+position_0 instrument_piano pitch_69 duration_24
+position_0 instrument_piano pitch_77 duration_12
+beat_47
+position_0 instrument_piano pitch_57 duration_12
+position_0 instrument_piano pitch_81 duration_6
+position_6 instrument_piano pitch_84 duration_6
+beat_48
+position_0 instrument_piano pitch_58 duration_12
+position_0 instrument_piano pitch_62 duration_4
+position_0 instrument_piano pitch_69 duration_24
+position_0 instrument_piano pitch_83 duration_6
+position_4 instrument_piano pitch_64 duration_4
+position_6 instrument_piano pitch_81 duration_6
+position_8 instrument_piano pitch_67 duration_4
+beat_49
+position_0 instrument_piano pitch_60 duration_12
+position_0 instrument_piano pitch_64 duration_12
+position_0 instrument_piano pitch_65 duration_12
+beat_50
+position_0 instrument_piano pitch_62 duration_9
+position_0 instrument_piano pitch_65 duration_12
+position_0 instrument_piano pitch_74 duration_12
+position_0 instrument_piano pitch_81 duration_6
+position_6 instrument_piano pitch_84 duration_6
+position_9 instrument_piano pitch_62 duration_3
+beat_51
+position_0 instrument_piano pitch_60 duration_12
+position_0 instrument_piano pitch_62 duration_12
+position_0 instrument_piano pitch_63 duration_12
+position_0 instrument_piano pitch_72 duration_6
+position_0 instrument_piano pitch_80 duration_24
+position_6 instrument_piano pitch_77 duration_6
+beat_52
+position_0 instrument_piano pitch_53 duration_12
+position_0 instrument_piano pitch_55 duration_24
+position_0 instrument_piano pitch_58 duration_24
+position_0 instrument_piano pitch_74 duration_6
+position_0 instrument_piano pitch_79 duration_24
+position_6 instrument_piano pitch_76 duration_6
+beat_53
+position_0 instrument_piano pitch_72 duration_12
+beat_54
+position_0 instrument_piano pitch_52 duration_12
+position_0 instrument_piano pitch_60 duration_12
+position_0 instrument_piano pitch_70 duration_12
+position_0 instrument_piano pitch_74 duration_6
+position_6 instrument_piano pitch_75 duration_6
+beat_55
+position_0 instrument_piano pitch_51 duration_24
+position_0 instrument_piano pitch_65 duration_9
+position_0 instrument_piano pitch_65 duration_12
+position_0 instrument_piano pitch_68 duration_12
+position_0 instrument_piano pitch_69 duration_12
+position_0 instrument_piano pitch_76 duration_12
+position_9 instrument_piano pitch_65 duration_3
+beat_56
+position_0 instrument_piano pitch_65 duration_12
+position_0 instrument_piano pitch_67 duration_6
+position_0 instrument_piano pitch_72 duration_12
+position_0 instrument_piano pitch_76 duration_12
+position_6 instrument_piano pitch_69 duration_6
+beat_57
+position_0 instrument_piano pitch_50 duration_12
+position_0 instrument_piano pitch_62 duration_12
+position_0 instrument_piano pitch_67 duration_6
+position_0 instrument_piano pitch_67 duration_12
+position_0 instrument_piano pitch_74 duration_12
+position_6 instrument_piano pitch_65 duration_6
+beat_58
+position_0 instrument_piano pitch_49 duration_12
+position_0 instrument_piano pitch_62 duration_12
+position_0 instrument_piano pitch_65 duration_12
+position_0 instrument_piano pitch_68 duration_6
+position_0 instrument_piano pitch_72 duration_12
+position_6 instrument_piano pitch_70 duration_6
+beat_59
+position_0 instrument_piano pitch_60 duration_12
+position_0 instrument_piano pitch_64 duration_12
+position_0 instrument_piano pitch_65 duration_6
+position_0 instrument_piano pitch_67 duration_12
+position_0 instrument_piano pitch_72 duration_6
+position_6 instrument_piano pitch_63 duration_6
+position_6 instrument_piano pitch_75 duration_6
+beat_60
+position_0 instrument_piano pitch_59 duration_12
+position_0 instrument_piano pitch_63 duration_12
+position_0 instrument_piano pitch_65 duration_12
+position_0 instrument_piano pitch_67 duration_12
+position_0 instrument_piano pitch_72 duration_12
+position_0 instrument_piano pitch_73 duration_12
+position_0 instrument_piano pitch_76 duration_12
+beat_61
+position_0 instrument_piano pitch_58 duration_24
+position_0 instrument_piano pitch_63 duration_12
+position_0 instrument_piano pitch_63 duration_24
+position_0 instrument_piano pitch_67 duration_24
+position_0 instrument_piano pitch_76 duration_8
+position_0 instrument_piano pitch_76 duration_12
+position_8 instrument_piano pitch_77 duration_8
+beat_62
+position_0 instrument_piano pitch_53 duration_12
+position_0 instrument_piano pitch_62 duration_12
+position_0 instrument_piano pitch_74 duration_12
+position_4 instrument_piano pitch_79 duration_8
+beat_63
+position_0 instrument_piano pitch_54 duration_12
+position_0 instrument_piano pitch_58 duration_12
+position_0 instrument_piano pitch_62 duration_12
+position_0 instrument_piano pitch_65 duration_12
+position_0 instrument_piano pitch_75 duration_6
+position_0 instrument_piano pitch_81 duration_12
+end-of-song
