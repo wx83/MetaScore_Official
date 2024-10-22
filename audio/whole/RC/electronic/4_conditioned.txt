@@ -1,0 +1,298 @@
+start-of-tags
+start-of-genre
+tag_genre_Electronic/Dance
+tag_genre_Urban
+start-of-complexity
+tag_complexity_None
+start-of-composer
+tag_composer_None
+start-of-instrument
+tag_instrument_electric-bass
+tag_instrument_organ
+tag_instrument_steel-string-guitar
+start-of-notes
+position_0 instrument_electric-bass pitch_33 duration_24
+position_0 instrument_steel-string-guitar pitch_45 duration_24
+position_0 instrument_steel-string-guitar pitch_64 duration_12
+position_0 instrument_steel-string-guitar pitch_69 duration_12
+position_0 instrument_organ pitch_73 duration_6
+position_0 instrument_steel-string-guitar pitch_73 duration_12
+position_6 instrument_organ pitch_71 duration_6
+beat_1
+position_0 instrument_steel-string-guitar pitch_64 duration_12
+position_0 instrument_organ pitch_69 duration_6
+position_0 instrument_steel-string-guitar pitch_69 duration_12
+position_0 instrument_steel-string-guitar pitch_73 duration_12
+position_6 instrument_organ pitch_73 duration_6
+beat_2
+position_0 instrument_electric-bass pitch_33 duration_12
+position_0 instrument_steel-string-guitar pitch_45 duration_12
+position_0 instrument_steel-string-guitar pitch_64 duration_12
+position_0 instrument_steel-string-guitar pitch_69 duration_12
+position_0 instrument_organ pitch_71 duration_6
+position_0 instrument_steel-string-guitar pitch_73 duration_12
+position_6 instrument_organ pitch_69 duration_6
+beat_3
+position_0 instrument_electric-bass pitch_33 duration_12
+position_0 instrument_steel-string-guitar pitch_45 duration_12
+position_0 instrument_steel-string-guitar pitch_64 duration_12
+position_0 instrument_organ pitch_68 duration_12
+position_0 instrument_steel-string-guitar pitch_69 duration_12
+position_0 instrument_steel-string-guitar pitch_73 duration_12
+beat_4
+position_0 instrument_electric-bass pitch_35 duration_24
+position_0 instrument_steel-string-guitar pitch_47 duration_24
+position_0 instrument_steel-string-guitar pitch_63 duration_12
+position_0 instrument_steel-string-guitar pitch_66 duration_12
+position_0 instrument_steel-string-guitar pitch_71 duration_12
+position_0 instrument_organ pitch_71 duration_48
+beat_5
+position_0 instrument_steel-string-guitar pitch_63 duration_6
+position_0 instrument_steel-string-guitar pitch_66 duration_6
+position_0 instrument_steel-string-guitar pitch_71 duration_6
+position_6 instrument_steel-string-guitar pitch_63 duration_6
+position_6 instrument_steel-string-guitar pitch_66 duration_6
+position_6 instrument_steel-string-guitar pitch_71 duration_6
+beat_6
+position_0 instrument_electric-bass pitch_35 duration_12
+position_0 instrument_steel-string-guitar pitch_47 duration_12
+position_0 instrument_steel-string-guitar pitch_63 duration_12
+position_0 instrument_steel-string-guitar pitch_66 duration_12
+position_0 instrument_steel-string-guitar pitch_71 duration_12
+beat_7
+position_0 instrument_electric-bass pitch_35 duration_12
+position_0 instrument_steel-string-guitar pitch_47 duration_12
+position_0 instrument_steel-string-guitar pitch_63 duration_12
+position_0 instrument_steel-string-guitar pitch_66 duration_12
+position_0 instrument_steel-string-guitar pitch_71 duration_12
+beat_8
+position_0 instrument_electric-bass pitch_37 duration_24
+position_0 instrument_steel-string-guitar pitch_49 duration_24
+position_0 instrument_steel-string-guitar pitch_61 duration_12
+position_0 instrument_steel-string-guitar pitch_68 duration_12
+position_0 instrument_organ pitch_71 duration_6
+position_0 instrument_steel-string-guitar pitch_73 duration_12
+position_6 instrument_organ pitch_69 duration_6
+beat_9
+position_0 instrument_steel-string-guitar pitch_61 duration_6
+position_0 instrument_steel-string-guitar pitch_68 duration_6
+position_0 instrument_organ pitch_68 duration_12
+position_0 instrument_steel-string-guitar pitch_73 duration_6
+position_6 instrument_steel-string-guitar pitch_61 duration_6
+position_6 instrument_steel-string-guitar pitch_68 duration_6
+position_6 instrument_steel-string-guitar pitch_73 duration_6
+beat_10
+position_0 instrument_electric-bass pitch_37 duration_12
+position_0 instrument_steel-string-guitar pitch_49 duration_12
+position_0 instrument_steel-string-guitar pitch_61 duration_12
+position_0 instrument_steel-string-guitar pitch_68 duration_12
+position_0 instrument_organ pitch_69 duration_12
+position_0 instrument_steel-string-guitar pitch_73 duration_12
+beat_11
+position_0 instrument_electric-bass pitch_37 duration_12
+position_0 instrument_steel-string-guitar pitch_49 duration_12
+position_0 instrument_steel-string-guitar pitch_61 duration_12
+position_0 instrument_organ pitch_64 duration_12
+position_0 instrument_steel-string-guitar pitch_68 duration_12
+position_0 instrument_steel-string-guitar pitch_73 duration_12
+beat_12
+position_0 instrument_electric-bass pitch_28 duration_48
+position_0 instrument_steel-string-guitar pitch_40 duration_48
+position_0 instrument_steel-string-guitar pitch_59 duration_12
+position_0 instrument_steel-string-guitar pitch_64 duration_12
+position_0 instrument_organ pitch_68 duration_12
+position_0 instrument_steel-string-guitar pitch_68 duration_12
+beat_13
+position_0 instrument_steel-string-guitar pitch_59 duration_12
+position_0 instrument_steel-string-guitar pitch_64 duration_12
+position_0 instrument_steel-string-guitar pitch_68 duration_12
+position_0 instrument_organ pitch_71 duration_12
+beat_14
+position_0 instrument_steel-string-guitar pitch_59 duration_12
+position_0 instrument_steel-string-guitar pitch_64 duration_12
+position_0 instrument_steel-string-guitar pitch_68 duration_12
+position_0 instrument_organ pitch_71 duration_24
+beat_15
+position_0 instrument_steel-string-guitar pitch_59 duration_12
+position_0 instrument_steel-string-guitar pitch_64 duration_12
+position_0 instrument_steel-string-guitar pitch_68 duration_12
+beat_16
+position_0 instrument_electric-bass pitch_33 duration_24
+position_0 instrument_steel-string-guitar pitch_45 duration_24
+position_0 instrument_steel-string-guitar pitch_61 duration_12
+position_0 instrument_steel-string-guitar pitch_64 duration_12
+position_0 instrument_steel-string-guitar pitch_69 duration_12
+position_0 instrument_organ pitch_69 duration_48
+beat_17
+position_0 instrument_steel-string-guitar pitch_61 duration_6
+position_0 instrument_steel-string-guitar pitch_64 duration_6
+position_0 instrument_steel-string-guitar pitch_69 duration_6
+position_6 instrument_steel-string-guitar pitch_61 duration_6
+position_6 instrument_steel-string-guitar pitch_64 duration_6
+position_6 instrument_steel-string-guitar pitch_69 duration_6
+beat_18
+position_0 instrument_electric-bass pitch_33 duration_12
+position_0 instrument_steel-string-guitar pitch_45 duration_12
+position_0 instrument_steel-string-guitar pitch_61 duration_12
+position_0 instrument_steel-string-guitar pitch_64 duration_12
+position_0 instrument_steel-string-guitar pitch_69 duration_12
+beat_19
+position_0 instrument_electric-bass pitch_33 duration_12
+position_0 instrument_steel-string-guitar pitch_45 duration_12
+position_0 instrument_steel-string-guitar pitch_61 duration_12
+position_0 instrument_steel-string-guitar pitch_64 duration_12
+position_0 instrument_steel-string-guitar pitch_69 duration_12
+beat_20
+position_0 instrument_electric-bass pitch_38 duration_24
+position_0 instrument_steel-string-guitar pitch_50 duration_24
+position_0 instrument_steel-string-guitar pitch_62 duration_12
+position_0 instrument_steel-string-guitar pitch_66 duration_12
+position_0 instrument_steel-string-guitar pitch_69 duration_12
+position_0 instrument_organ pitch_69 duration_48
+beat_21
+position_0 instrument_steel-string-guitar pitch_62 duration_6
+position_0 instrument_steel-string-guitar pitch_66 duration_6
+position_0 instrument_steel-string-guitar pitch_69 duration_6
+position_6 instrument_steel-string-guitar pitch_62 duration_6
+position_6 instrument_steel-string-guitar pitch_66 duration_6
+position_6 instrument_steel-string-guitar pitch_69 duration_6
+beat_22
+position_0 instrument_electric-bass pitch_38 duration_12
+position_0 instrument_steel-string-guitar pitch_50 duration_12
+position_0 instrument_steel-string-guitar pitch_62 duration_12
+position_0 instrument_steel-string-guitar pitch_66 duration_12
+position_0 instrument_steel-string-guitar pitch_69 duration_12
+beat_23
+position_0 instrument_electric-bass pitch_38 duration_12
+position_0 instrument_steel-string-guitar pitch_50 duration_12
+position_0 instrument_steel-string-guitar pitch_62 duration_12
+position_0 instrument_steel-string-guitar pitch_66 duration_12
+position_0 instrument_steel-string-guitar pitch_69 duration_12
+beat_24
+position_0 instrument_electric-bass pitch_35 duration_24
+position_0 instrument_steel-string-guitar pitch_47 duration_24
+position_0 instrument_steel-string-guitar pitch_62 duration_12
+position_0 instrument_steel-string-guitar pitch_66 duration_12
+position_0 instrument_organ pitch_66 duration_48
+position_0 instrument_steel-string-guitar pitch_71 duration_12
+beat_25
+position_0 instrument_steel-string-guitar pitch_62 duration_6
+position_0 instrument_steel-string-guitar pitch_66 duration_6
+position_0 instrument_steel-string-guitar pitch_71 duration_6
+position_6 instrument_steel-string-guitar pitch_62 duration_6
+position_6 instrument_steel-string-guitar pitch_66 duration_6
+position_6 instrument_steel-string-guitar pitch_71 duration_6
+beat_26
+position_0 instrument_electric-bass pitch_35 duration_12
+position_0 instrument_steel-string-guitar pitch_47 duration_12
+position_0 instrument_steel-string-guitar pitch_62 duration_12
+position_0 instrument_steel-string-guitar pitch_66 duration_12
+position_0 instrument_steel-string-guitar pitch_71 duration_12
+beat_27
+position_0 instrument_electric-bass pitch_35 duration_12
+position_0 instrument_steel-string-guitar pitch_47 duration_12
+position_0 instrument_steel-string-guitar pitch_62 duration_12
+position_0 instrument_steel-string-guitar pitch_66 duration_12
+position_0 instrument_steel-string-guitar pitch_71 duration_12
+beat_28
+position_0 instrument_electric-bass pitch_35 duration_12
+position_0 instrument_steel-string-guitar pitch_47 duration_12
+position_0 instrument_steel-string-guitar pitch_63 duration_12
+position_0 instrument_organ pitch_63 duration_24
+position_0 instrument_steel-string-guitar pitch_66 duration_12
+position_0 instrument_steel-string-guitar pitch_69 duration_12
+position_0 instrument_steel-string-guitar pitch_71 duration_12
+beat_29
+position_0 instrument_electric-bass pitch_37 duration_12
+position_0 instrument_steel-string-guitar pitch_47 duration_12
+position_0 instrument_steel-string-guitar pitch_63 duration_12
+position_0 instrument_steel-string-guitar pitch_66 duration_12
+position_0 instrument_steel-string-guitar pitch_69 duration_12
+position_0 instrument_steel-string-guitar pitch_71 duration_12
+beat_30
+position_0 instrument_electric-bass pitch_37 duration_12
+position_0 instrument_steel-string-guitar pitch_47 duration_12
+position_0 instrument_steel-string-guitar pitch_63 duration_12
+position_0 instrument_organ pitch_64 duration_24
+position_0 instrument_steel-string-guitar pitch_66 duration_12
+position_0 instrument_steel-string-guitar pitch_69 duration_12
+position_0 instrument_steel-string-guitar pitch_71 duration_12
+beat_31
+position_0 instrument_electric-bass pitch_39 duration_12
+position_0 instrument_steel-string-guitar pitch_47 duration_12
+position_0 instrument_steel-string-guitar pitch_63 duration_12
+position_0 instrument_steel-string-guitar pitch_66 duration_12
+position_0 instrument_steel-string-guitar pitch_69 duration_12
+position_0 instrument_steel-string-guitar pitch_71 duration_12
+beat_32
+position_0 instrument_electric-bass pitch_40 duration_24
+position_0 instrument_steel-string-guitar pitch_47 duration_24
+position_0 instrument_steel-string-guitar pitch_64 duration_12
+position_0 instrument_steel-string-guitar pitch_68 duration_12
+position_0 instrument_steel-string-guitar pitch_71 duration_12
+beat_33
+position_0 instrument_steel-string-guitar pitch_64 duration_6
+position_0 instrument_steel-string-guitar pitch_68 duration_6
+position_0 instrument_steel-string-guitar pitch_71 duration_6
+position_6 instrument_steel-string-guitar pitch_64 duration_6
+position_6 instrument_steel-string-guitar pitch_68 duration_6
+position_6 instrument_steel-string-guitar pitch_71 duration_6
+beat_34
+position_0 instrument_electric-bass pitch_40 duration_12
+position_0 instrument_steel-string-guitar pitch_47 duration_12
+position_0 instrument_steel-string-guitar pitch_64 duration_12
+position_0 instrument_steel-string-guitar pitch_68 duration_12
+position_0 instrument_steel-string-guitar pitch_71 duration_12
+beat_35
+position_0 instrument_electric-bass pitch_40 duration_12
+position_0 instrument_steel-string-guitar pitch_47 duration_12
+position_0 instrument_steel-string-guitar pitch_64 duration_12
+position_0 instrument_steel-string-guitar pitch_68 duration_12
+position_0 instrument_steel-string-guitar pitch_71 duration_12
+beat_36
+position_0 instrument_electric-bass pitch_33 duration_24
+position_0 instrument_steel-string-guitar pitch_45 duration_24
+position_0 instrument_steel-string-guitar pitch_64 duration_12
+position_0 instrument_steel-string-guitar pitch_69 duration_12
+position_0 instrument_steel-string-guitar pitch_73 duration_12
+beat_37
+position_0 instrument_steel-string-guitar pitch_64 duration_6
+position_0 instrument_steel-string-guitar pitch_69 duration_6
+position_0 instrument_steel-string-guitar pitch_73 duration_6
+position_6 instrument_steel-string-guitar pitch_64 duration_6
+position_6 instrument_steel-string-guitar pitch_69 duration_6
+position_6 instrument_steel-string-guitar pitch_73 duration_6
+beat_38
+position_0 instrument_electric-bass pitch_33 duration_12
+position_0 instrument_steel-string-guitar pitch_45 duration_12
+position_0 instrument_steel-string-guitar pitch_64 duration_12
+position_0 instrument_steel-string-guitar pitch_69 duration_12
+position_0 instrument_steel-string-guitar pitch_73 duration_12
+beat_39
+position_0 instrument_electric-bass pitch_33 duration_12
+position_0 instrument_steel-string-guitar pitch_45 duration_12
+position_0 instrument_steel-string-guitar pitch_64 duration_12
+position_0 instrument_steel-string-guitar pitch_69 duration_12
+position_0 instrument_steel-string-guitar pitch_73 duration_12
+beat_40
+position_0 instrument_electric-bass pitch_38 duration_24
+position_0 instrument_steel-string-guitar pitch_50 duration_24
+position_0 instrument_steel-string-guitar pitch_62 duration_12
+position_0 instrument_steel-string-guitar pitch_66 duration_12
+position_0 instrument_steel-string-guitar pitch_71 duration_12
+position_0 instrument_steel-string-guitar pitch_71 duration_24
+beat_41
+position_0 instrument_steel-string-guitar pitch_62 duration_6
+position_0 instrument_steel-string-guitar pitch_66 duration_6
+position_0 instrument_steel-string-guitar pitch_71 duration_6
+position_6 instrument_steel-string-guitar pitch_62 duration_6
+position_6 instrument_steel-string-guitar pitch_66 duration_6
+position_6 instrument_steel-string-guitar pitch_71 duration_6
+beat_42
+position_0 instrument_electric-bass pitch_38 duration_12
+position_0 instrument_steel-string-guitar pitch_50 duration_12
+position_0 instrument_steel-string-guitar pitch_62 duration_12
+position_0 instrument_steel-string-guitar pitch_66 duration_12
+position_0 instrument_steel-string-guitar pitch_69 duration_24
+position_0 instrument_steel-string-guitar duration_6
+end-of-song

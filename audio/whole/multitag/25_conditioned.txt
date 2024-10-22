@@ -1,0 +1,302 @@
+start-of-tags
+start-of-genre
+tag_genre_Classical/Traditional
+tag_genre_Soundtrack/Stage
+start-of-complexity
+tag_complexity_None
+start-of-composer
+tag_composer_None
+start-of-instrument
+tag_instrument_piano
+tag_instrument_cello
+start-of-notes
+position_0 instrument_piano pitch_66 duration_6
+position_6 instrument_piano pitch_68 duration_6
+beat_4
+position_0 instrument_cello pitch_54 duration_48
+position_0 instrument_cello pitch_57 duration_48
+position_0 instrument_drums drum_61
+position_0 instrument_piano pitch_66 duration_6
+position_0 instrument_drums drum_66
+position_6 instrument_piano pitch_68 duration_6
+beat_5
+position_0 instrument_drums drum_61
+position_0 instrument_drums drum_66
+beat_6
+position_0 instrument_piano pitch_66 duration_6
+position_6 instrument_piano pitch_68 duration_6
+beat_7
+position_0 instrument_drums drum_64
+position_0 instrument_drums drum_68
+beat_8
+position_0 instrument_piano pitch_42 duration_48
+position_0 instrument_piano pitch_45 duration_48
+position_0 instrument_piano pitch_49 duration_48
+position_0 instrument_cello pitch_54 duration_24
+position_0 instrument_cello pitch_57 duration_24
+position_0 instrument_piano pitch_61 duration_6
+position_0 instrument_piano pitch_66 duration_6
+position_0 instrument_drums drum_73
+position_0 instrument_drums drum_78
+position_6 instrument_piano pitch_66 duration_6
+position_6 instrument_piano pitch_69 duration_6
+position_6 instrument_piano pitch_73 duration_6
+beat_9
+position_0 instrument_piano pitch_66 duration_12
+position_0 instrument_piano pitch_69 duration_12
+position_0 instrument_piano pitch_73 duration_12
+beat_10
+position_0 instrument_cello pitch_54 duration_24
+position_0 instrument_cello pitch_57 duration_24
+position_6 instrument_piano pitch_66 duration_6
+position_6 instrument_piano pitch_69 duration_6
+position_6 instrument_piano pitch_74 duration_6
+beat_11
+position_0 instrument_piano pitch_66 duration_12
+position_0 instrument_piano pitch_69 duration_12
+position_0 instrument_piano pitch_74 duration_12
+beat_12
+position_0 instrument_piano pitch_42 duration_48
+position_0 instrument_piano pitch_45 duration_48
+position_0 instrument_piano pitch_49 duration_48
+position_0 instrument_cello pitch_52 duration_24
+position_0 instrument_cello pitch_56 duration_24
+position_0 instrument_piano pitch_61 duration_6
+position_0 instrument_piano pitch_66 duration_6
+position_0 instrument_drums drum_73
+position_0 instrument_piano pitch_78 duration_6
+position_6 instrument_piano pitch_69 duration_6
+position_6 instrument_piano pitch_73 duration_6
+position_6 instrument_drums drum_76
+position_6 instrument_piano pitch_81 duration_6
+beat_13
+position_0 instrument_piano pitch_68 duration_6
+position_0 instrument_drums drum_73
+position_0 instrument_piano pitch_80 duration_6
+position_6 instrument_piano pitch_66 duration_6
+position_6 instrument_piano pitch_78 duration_6
+beat_14
+position_0 instrument_cello pitch_54 duration_24
+position_0 instrument_piano pitch_61 duration_12
+position_0 instrument_piano pitch_64 duration_12
+position_0 instrument_drums drum_64
+position_0 instrument_piano pitch_68 duration_12
+position_0 instrument_piano pitch_76 duration_12
+beat_15
+position_0 instrument_piano pitch_61 duration_12
+position_0 instrument_piano pitch_64 duration_12
+position_0 instrument_piano pitch_69 duration_12
+position_0 instrument_drums drum_73
+position_0 instrument_piano pitch_81 duration_12
+beat_16
+position_0 instrument_piano pitch_42 duration_48
+position_0 instrument_piano pitch_45 duration_48
+position_0 instrument_piano pitch_49 duration_48
+position_0 instrument_cello pitch_54 duration_48
+position_0 instrument_cello pitch_57 duration_48
+position_0 instrument_piano pitch_61 duration_6
+position_0 instrument_drums drum_73
+position_0 instrument_piano pitch_78 duration_6
+position_6 instrument_piano pitch_66 duration_6
+position_6 instrument_piano pitch_69 duration_6
+position_6 instrument_piano pitch_73 duration_6
+beat_17
+position_0 instrument_piano pitch_66 duration_12
+position_0 instrument_piano pitch_69 duration_12
+position_0 instrument_piano pitch_73 duration_12
+beat_18
+position_0 instrument_piano pitch_66 duration_6
+position_0 instrument_piano pitch_73 duration_6
+position_0 instrument_piano pitch_81 duration_6
+position_6 instrument_piano pitch_68 duration_6
+position_6 instrument_piano pitch_75 duration_6
+position_6 instrument_piano pitch_80 duration_6
+beat_19
+position_0 instrument_piano pitch_69 duration_6
+position_0 instrument_piano pitch_78 duration_6
+position_0 instrument_piano pitch_81 duration_6
+position_6 instrument_piano pitch_68 duration_6
+position_6 instrument_piano pitch_75 duration_6
+position_6 instrument_piano pitch_80 duration_6
+beat_20
+position_0 instrument_piano pitch_42 duration_48
+position_0 instrument_piano pitch_45 duration_48
+position_0 instrument_piano pitch_49 duration_48
+position_0 instrument_cello pitch_54 duration_24
+position_0 instrument_cello pitch_56 duration_24
+position_0 instrument_piano pitch_61 duration_6
+position_0 instrument_drums drum_73
+position_0 instrument_piano pitch_78 duration_6
+position_6 instrument_piano pitch_66 duration_6
+position_6 instrument_piano pitch_69 duration_6
+position_6 instrument_piano pitch_73 duration_6
+beat_21
+position_0 instrument_piano pitch_66 duration_12
+position_0 instrument_piano pitch_69 duration_12
+position_0 instrument_piano pitch_73 duration_12
+beat_22
+position_0 instrument_cello pitch_54 duration_24
+position_0 instrument_cello pitch_59 duration_24
+position_0 instrument_piano pitch_66 duration_12
+position_0 instrument_piano pitch_68 duration_12
+position_0 instrument_piano pitch_71 duration_12
+beat_23
+position_0 instrument_piano pitch_61 duration_12
+position_0 instrument_piano pitch_64 duration_12
+position_0 instrument_piano pitch_69 duration_12
+beat_24
+position_0 instrument_piano pitch_40 duration_12
+position_0 instrument_cello pitch_52 duration_9
+position_0 instrument_cello pitch_56 duration_9
+position_0 instrument_piano pitch_64 duration_9
+position_0 instrument_piano pitch_68 duration_3
+position_0 instrument_drums drum_69
+position_0 instrument_piano pitch_73 duration_3
+position_3 instrument_piano pitch_69 duration_3
+position_6 instrument_piano pitch_68 duration_6
+position_6 instrument_drums drum_76
+position_6 instrument_piano pitch_80 duration_6
+position_9 instrument_cello pitch_54 duration_3
+position_9 instrument_piano pitch_66 duration_3
+position_9 instrument_drums drum_81
+beat_25
+position_0 instrument_piano pitch_40 duration_36
+position_0 instrument_cello pitch_56 duration_6
+position_0 instrument_cello pitch_59 duration_6
+position_0 instrument_piano pitch_68 duration_6
+position_0 instrument_piano pitch_83 duration_6
+position_6 instrument_cello pitch_57 duration_6
+position_6 instrument_cello pitch_61 duration_6
+position_6 instrument_piano pitch_69 duration_6
+position_6 instrument_piano pitch_73 duration_6
+beat_26
+position_0 instrument_piano pitch_52 duration_24
+position_0 instrument_cello pitch_56 duration_24
+position_0 instrument_cello pitch_59 duration_24
+position_0 instrument_piano pitch_61 duration_3
+position_0 instrument_piano pitch_68 duration_3
+position_3 instrument_piano pitch_64 duration_3
+position_3 instrument_piano pitch_69 duration_3
+position_6 instrument_piano pitch_69 duration_6
+position_6 instrument_piano pitch_73 duration_6
+beat_27
+position_0 instrument_piano pitch_68 duration_6
+position_0 instrument_piano pitch_71 duration_6
+position_6 instrument_piano pitch_69 duration_6
+position_6 instrument_piano pitch_73 duration_6
+beat_28
+position_0 instrument_piano pitch_33 duration_24
+position_0 instrument_piano pitch_40 duration_24
+position_0 instrument_cello pitch_47 duration_24
+position_0 instrument_cello pitch_52 duration_24
+position_0 instrument_piano pitch_57 duration_6
+position_0 instrument_piano pitch_61 duration_6
+position_0 instrument_piano pitch_68 duration_3
+position_3 instrument_piano pitch_69 duration_3
+position_6 instrument_piano pitch_61 duration_6
+position_6 instrument_piano pitch_64 duration_6
+position_6 instrument_piano pitch_73 duration_6
+position_6 instrument_piano pitch_80 duration_6
+beat_29
+position_0 instrument_piano pitch_64 duration_6
+position_0 instrument_piano pitch_69 duration_6
+position_0 instrument_piano pitch_83 duration_6
+position_6 instrument_piano pitch_61 duration_6
+position_6 instrument_piano pitch_64 duration_6
+position_6 instrument_piano pitch_73 duration_6
+position_6 instrument_piano pitch_85 duration_6
+beat_30
+position_0 instrument_piano pitch_38 duration_24
+position_0 instrument_cello pitch_50 duration_24
+position_0 instrument_piano pitch_57 duration_24
+position_0 instrument_cello pitch_59 duration_24
+position_0 instrument_piano pitch_62 duration_6
+position_0 instrument_piano pitch_66 duration_6
+position_0 instrument_piano pitch_69 duration_3
+position_3 instrument_piano pitch_71 duration_3
+position_6 instrument_piano pitch_66 duration_6
+position_6 instrument_piano pitch_69 duration_6
+position_6 instrument_piano pitch_74 duration_6
+position_6 instrument_drums drum_74
+beat_31
+position_0 instrument_piano pitch_69 duration_6
+position_0 instrument_piano pitch_74 duration_6
+position_0 instrument_piano pitch_78 duration_6
+position_0 instrument_drums drum_81
+position_6 instrument_piano pitch_69 duration_6
+position_6 instrument_piano pitch_74 duration_6
+position_6 instrument_piano pitch_81 duration_6
+position_6 instrument_drums drum_81
+beat_32
+position_0 instrument_piano pitch_40 duration_48
+position_0 instrument_cello pitch_52 duration_48
+position_0 instrument_cello pitch_57 duration_48
+position_0 instrument_cello pitch_61 duration_48
+position_0 instrument_piano pitch_64 duration_9
+position_0 instrument_viola pitch_73 duration_96
+position_0 instrument_violin pitch_81 duration_96
+position_0 instrument_violin pitch_85 duration_96
+position_9 instrument_piano pitch_61 duration_3
+beat_33
+position_0 instrument_piano pitch_59 duration_3
+position_3 instrument_piano pitch_66 duration_3
+position_6 instrument_piano pitch_64 duration_3
+position_9 instrument_piano pitch_69 duration_3
+beat_34
+position_0 instrument_piano pitch_64 duration_3
+position_3 instrument_piano pitch_62 duration_3
+position_6 instrument_piano pitch_59 duration_6
+beat_35
+position_0 instrument_piano pitch_56 duration_6
+position_6 instrument_piano pitch_59 duration_6
+beat_36
+position_0 instrument_piano pitch_42 duration_24
+position_0 instrument_piano pitch_54 duration_24
+position_0 instrument_cello pitch_54 duration_48
+position_0 instrument_cello pitch_59 duration_48
+position_0 instrument_piano pitch_61 duration_3
+position_3 instrument_piano pitch_66 duration_3
+position_6 instrument_piano pitch_61 duration_3
+position_9 instrument_piano pitch_68 duration_3
+beat_37
+position_0 instrument_piano pitch_61 duration_3
+position_3 instrument_piano pitch_56 duration_3
+position_6 instrument_piano pitch_61 duration_3
+position_9 instrument_piano pitch_69 duration_3
+beat_38
+position_0 instrument_piano pitch_54 duration_24
+position_0 instrument_piano pitch_73 duration_3
+position_3 instrument_piano pitch_74 duration_3
+position_6 instrument_piano pitch_76 duration_3
+position_9 instrument_piano pitch_81 duration_3
+beat_39
+position_0 instrument_piano pitch_88 duration_12
+beat_40
+position_0 instrument_piano pitch_38 duration_24
+position_0 instrument_cello pitch_50 duration_72
+position_0 instrument_cello pitch_54 duration_72
+position_0 instrument_piano pitch_62 duration_6
+position_0 instrument_viola pitch_69 duration_72
+position_0 instrument_violin pitch_74 duration_72
+position_0 instrument_violin pitch_78 duration_72
+position_6 instrument_piano pitch_66 duration_6
+beat_41
+position_0 instrument_piano pitch_69 duration_6
+position_6 instrument_piano pitch_66 duration_6
+beat_42
+position_0 instrument_piano pitch_50 duration_24
+position_0 instrument_piano pitch_62 duration_6
+position_6 instrument_piano pitch_66 duration_6
+beat_43
+position_0 instrument_piano pitch_69 duration_6
+position_6 instrument_piano pitch_73 duration_3
+position_9 instrument_piano pitch_76 duration_3
+beat_44
+position_0 instrument_piano pitch_49 duration_24
+position_0 instrument_piano pitch_61 duration_3
+position_3 instrument_piano pitch_64 duration_3
+position_6 instrument_piano pitch_68 duration_3
+position_9 instrument_piano pitch_71 duration_3
+beat_45
+position_0 instrument_piano pitch_76 duration_3 duration_48
+end-of-song

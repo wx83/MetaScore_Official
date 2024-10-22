@@ -1,0 +1,304 @@
+start-of-tags
+start-of-genre
+tag_genre_Electronic/Dance
+start-of-complexity
+tag_complexity_None
+start-of-composer
+tag_composer_None
+start-of-instrument
+tag_instrument_synth-bass
+tag_instrument_lead
+tag_instrument_ocarina
+tag_instrument_voices pitch_79
+tag_instrument_harpsichord
+start-of-notes
+position_2 instrument_synth-bass pitch_66 duration_1
+position_3 instrument_ocarina pitch_49 duration_9
+beat_1
+position_0 instrument_ocarina pitch_51 duration_9
+beat_2
+position_0 instrument_ocarina pitch_54 duration_9
+position_6 instrument_synth-bass pitch_63 duration_48
+position_6 instrument_lead pitch_64 duration_48
+position_6 instrument_lead pitch_64 duration_48
+beat_3
+position_6 instrument_lead pitch_61 duration_12
+position_9 instrument_synth-bass pitch_49 duration_12
+beat_5
+position_0 instrument_ocarina pitch_54 duration_9
+beat_6
+position_0 instrument_lead pitch_54 duration_12
+position_6 instrument_lead pitch_60 duration_48
+position_6 instrument_lead pitch_60 duration_48
+beat_7
+position_3 instrument_synth-bass pitch_56 duration_12
+position_6 instrument_lead pitch_54 duration_12
+beat_8
+position_0 instrument_synth-bass pitch_60 duration_12
+position_0 instrument_harpsichord pitch_72 duration_6
+position_6 instrument_harpsichord pitch_72 duration_6
+beat_9
+position_0 instrument_synth-bass pitch_49 duration_12
+position_0 instrument_harpsichord pitch_77 duration_6
+position_6 instrument_harpsichord pitch_72 duration_6
+beat_10
+position_0 instrument_harpsichord pitch_77 duration_6
+position_3 instrument_synth-bass pitch_44 duration_12
+position_6 instrument_harpsichord pitch_72 duration_6
+position_6 instrument_lead pitch_72 duration_48
+beat_11
+position_0 instrument_synth-bass pitch_48 duration_12
+position_0 instrument_harpsichord pitch_77 duration_6
+position_6 instrument_harpsichord pitch_72 duration_6
+position_6 instrument_pad pitch_77 duration_6
+beat_12
+position_0 instrument_synth-bass pitch_56 duration_12
+position_0 instrument_pad pitch_68 duration_4
+position_0 instrument_harpsichord pitch_77 duration_6
+position_4 instrument_pad pitch_68 duration_8
+position_6 instrument_harpsichord pitch_72 duration_6
+beat_13
+position_0 instrument_synth-bass pitch_54 duration_12
+position_0 instrument_harpsichord pitch_77 duration_6
+position_0 instrument_pad pitch_85 duration_4
+position_4 instrument_pad pitch_83 duration_2
+position_6 instrument_harpsichord pitch_72 duration_6
+position_6 instrument_pad pitch_82 duration_4
+position_10 instrument_pad pitch_81 duration_4
+beat_14
+position_0 instrument_synth-bass pitch_60 duration_12
+position_0 instrument_harpsichord pitch_77 duration_6
+position_2 instrument_pad pitch_80 duration_4
+position_6 instrument_harpsichord pitch_72 duration_6
+beat_15
+position_0 instrument_synth-bass pitch_49 duration_12
+position_0 instrument_pad pitch_67 duration_4
+position_0 instrument_harpsichord pitch_77 duration_6
+position_4 instrument_pad pitch_67 duration_8
+position_6 instrument_harpsichord pitch_72 duration_6
+beat_16
+position_0 instrument_synth-bass pitch_56 duration_12
+position_0 instrument_pad pitch_85 duration_4
+position_0 instrument_music-box pitch_102 duration_18
+position_4 instrument_pad pitch_83 duration_2
+position_6 instrument_harpsichord pitch_72 duration_6
+position_6 instrument_pad pitch_82 duration_4
+position_10 instrument_pad pitch_81 duration_4
+beat_17
+position_0 instrument_synth-bass pitch_54 duration_12
+position_0 instrument_harpsichord pitch_77 duration_6
+position_2 instrument_pad pitch_80 duration_4
+position_3 instrument_pad pitch_42 duration_1
+position_4 instrument_pad pitch_44 duration_2
+position_6 instrument_pad pitch_48 duration_30
+position_6 instrument_harpsichord pitch_72 duration_6
+position_6 instrument_pad pitch_77 duration_4
+position_10 instrument_pad pitch_75 duration_4
+beat_18
+position_0 instrument_synth-bass pitch_60 duration_12
+position_0 instrument_harpsichord pitch_77 duration_6
+position_2 instrument_pad pitch_73 duration_4
+position_4 instrument_pad pitch_61 duration_2
+position_6 instrument_pad pitch_63 duration_3
+position_6 instrument_synth-bass pitch_66 duration_12
+position_6 instrument_harpsichord pitch_72 duration_6
+position_6 instrument_pad pitch_72 duration_8
+position_6 instrument_pad pitch_84 duration_8
+position_9 instrument_pad pitch_65 duration_3
+beat_19
+position_0 instrument_synth-bass pitch_49 duration_12
+position_0 instrument_pad pitch_72 duration_11
+position_0 instrument_harpsichord pitch_77 duration_6
+position_2 instrument_pad pitch_92 duration_8
+position_8 instrument_pad pitch_68 duration_4
+beat_20
+position_0 instrument_pad pitch_54 duration_12
+position_0 instrument_pad pitch_72 duration_8
+position_1 instrument_music-box pitch_102 duration_12
+position_4 instrument_pan-flute pitch_60 duration_24
+position_7 instrument_music-box pitch_102 duration_9
+position_7 instrument_music-box pitch_103 duration_9
+position_8 instrument_pad pitch_72 duration_30
+beat_21
+position_0 instrument_pad pitch_42 duration_8
+position_4 instrument_music-box pitch_102 duration_6
+position_4 instrument_music-box pitch_103 duration_6
+position_8 instrument_pad pitch_69 duration_10
+position_10 instrument_music-box pitch_102 duration_7
+beat_22
+position_0 instrument_synth-bass pitch_54 duration_8
+position_0 instrument_pad pitch_59 duration_18
+position_0 instrument_dulcimer pitch_96 duration_12
+position_0 instrument_music-box pitch_103 duration_24
+position_4 instrument_pad pitch_68 duration_21
+position_5 instrument_music-box pitch_103 duration_6
+position_5 instrument_music-box pitch_103 duration_24
+position_5 instrument_music-box pitch_104 duration_24
+position_6 instrument_pad pitch_68 duration_40
+position_8 instrument_synth-bass pitch_56 duration_4
+position_11 instrument_music-box pitch_103 duration_18
+beat_23
+position_0 instrument_synth-bass pitch_56 duration_10
+position_6 instrument_pad pitch_60 duration_6
+beat_24
+position_0 instrument_pad pitch_61 duration_24
+position_0 instrument_pad pitch_77 duration_20
+position_9 instrument_music-box pitch_103 duration_48
+position_10 instrument_synth-bass pitch_65 duration_16
+position_11 instrument_pad pitch_66 duration_16
+position_11 instrument_pad pitch_78 duration_16
+position_11 instrument_music-box pitch_103 duration_9
+position_11 instrument_music-box pitch_103 duration_9
+beat_25
+position_8 instrument_pad pitch_63 duration_72
+position_9 instrument_music-box pitch_103 duration_6
+beat_26
+position_3 instrument_pad pitch_63 duration_144
+position_3 instrument_pad pitch_75 duration_11
+beat_27
+position_2 instrument_pad pitch_65 duration_36
+beat_29
+position_0
+beat_17 pitch_58 duration_72
+beat_31
+position_0 instrument_synth-strings pitch_34 duration_6
+position_0 instrument_piano pitch_35 duration_18
+position_2 instrument_pad pitch_68 duration_20
+position_2 instrument_pad pitch_77 duration_20
+beat_32
+position_6 instrument_piano pitch_35 duration_18
+position_9 instrument_music-box pitch_96 duration_8
+position_10 instrument_pad pitch_68 duration_8
+position_11 instrument_pad pitch_53 duration_8
+beat_33
+position_5 instrument_music-box pitch_103 duration_8
+position_6 instrument_pad pitch_63 duration_20
+position_6 instrument_pad pitch_75 duration_20
+position_10 instrument_pad pitch_65 duration_18
+beat_34
+position_0 instrument_synth-bass pitch_34 duration_12
+position_0 instrument_piano pitch_35 duration_12
+position_1 instrument_music-box pitch_103 duration_4
+position_5 instrument_music-box pitch_103 duration_8
+beat_35
+position_5 instrument_pad pitch_65 duration_16
+position_5 instrument_pad pitch_77 duration_16
+beat_35
+position_10 instrument_music-box pitch_96 duration_8
+beat_36
+position_0 instrument_piano pitch_35 duration_12
+position_1 instrument_music-box pitch_103 duration_8
+position_4 instrument_pad pitch_67 duration_9
+position_4 instrument_pad pitch_73 duration_9
+position_6 instrument_drums drum_37
+position_6 instrument_pad pitch_48 duration_6
+position_9 instrument_drums drum_36
+position_9 instrument_music-box pitch_103 duration_8
+position_11 instrument_ocarina pitch_66 duration_5
+position_11 instrument_pad pitch_72 duration_5
+beat_37
+position_0 instrument_piano pitch_35 duration_12
+position_0 instrument_pad pitch_55 duration_6
+position_1 instrument_pad pitch_68 duration_5
+position_1 instrument_pad pitch_72 duration_5
+position_4 instrument_pad pitch_67 duration_5
+position_4 instrument_pad pitch_72 duration_5
+position_5 instrument_music-box pitch_103 duration_6
+position_6 instrument_pad pitch_89 duration_4
+position_6 instrument_pad pitch_96 duration_4
+position_9 instrument_pad pitch_63 duration_18
+position_9 instrument_pad pitch_75 duration_20
+position_9 instrument_music-box pitch_103 duration_8
+position_10 instrument_pad pitch_68 duration_15
+beat_38
+position_0 instrument_synth-bass pitch_39 duration_12
+position_0 instrument_synth-strings pitch_63 duration_12
+position_0 instrument_pad pitch_67 duration_12
+position_0 instrument_pad pitch_70 duration_12
+position_5 instrument_music-box pitch_103 duration_8
+position_10 instrument_pad pitch_84 duration_8
+beat_39
+position_2 instrument_pad pitch_63 duration_10
+position_2 instrument_pad pitch_75 duration_9
+position_6 instrument_pad pitch_85 duration_120
+beat_40
+position_0 instrument_drums drum_37
+position_0 instrument_lead pitch_56 duration_12
+position_0 instrument_pad pitch_60 duration_6
+position_0 instrument_synth-strings pitch_60 duration_12
+position_0 instrument_pad pitch_65 duration_60
+beat_41
+position_0 instrument_synth-bass pitch_56 duration_12
+position_0 instrument_lead pitch_60 duration_12
+position_0 instrument_pad pitch_68 duration_3
+position_3 instrument_pad pitch_65 duration_1
+position_5 instrument_pad pitch_55 duration_24
+beat_42
+position_0 instrument_synth-bass pitch_2 duration_12
+position_0 instrument_piano pitch_35 duration_48
+position_0 instrument_lead pitch_61 duration_24
+position_5 instrument_music-box pitch_103 duration_6
+position_11 instrument_music-box pitch_103 duration_8
+beat_43
+position_0 instrument_synth-bass pitch_60 duration_12
+position_0 instrument_synth-strings pitch_67 duration_12
+position_0 instrument_brasses pitch_68 duration_6
+position_1 instrument_pad pitch_55 duration_21
+position_1 instrument_pad pitch_63 duration_36
+position_7 instrument_music-box pitch_103 duration_8
+beat_44
+position_0 instrument_synth-bass pitch_58 duration_24
+position_0 instrument_lead pitch_60 duration_12
+position_1 instrument_pad pitch_64 duration_20
+position_3 instrument_music-box pitch_103 duration_8
+beat_45
+position_0 instrument_lead pitch_61 duration_36
+beat_46
+position_0 instrument_synth-bass pitch_58 duration_24
+position_0 instrument_pad pitch_63 duration_4
+position_0 instrument_pad pitch_64 duration_4
+position_0 instrument_brasses pitch_80 duration_12
+position_4 instrument_pad pitch_58 duration_4
+position_4 instrument_pad pitch_60 duration_4
+position_4 instrument_brasses pitch_68 duration_8
+position_4 instrument_pad pitch_68 duration_8
+position_7 instrument_music-box pitch_103 duration_6
+position_8 instrument_pad pitch_56 duration_20
+position_8 instrument_pad pitch_63 duration_20
+position_8 instrument_pad pitch_67 duration_20
+position_11 instrument_music-box pitch_103 duration_8
+beat_47
+position_0 instrument_brasses pitch_68 duration_8
+position_0 instrument_pad pitch_73 duration_8
+position_1 instrument_music-box pitch_103 duration_8
+position_8 instrument_brasses pitch_68 duration_8
+position_9 instrument_pad pitch_72 duration_15
+position_9 instrument_brasses pitch_80 duration_15
+position_9 instrument_pad pitch_80 duration_15
+position_9 instrument_music-box pitch_103 duration_9
+position_11 instrument_pad pitch_64 duration_15
+beat_48
+position_0 instrument_piano pitch_38 duration_12
+position_0 instrument_vibraphone pitch_68 duration_12
+position_0 instrument_strings pitch_68 duration_12
+position_0 instrument_horn pitch_68 duration_36
+position_0 instrument_synth-strings pitch_68 duration_36
+position_0 instrument_strings pitch_76 duration_12
+position_0 instrument_strings pitch_79 duration_12
+position_6 instrument_music-box pitch_103 duration_8
+position_8 instrument_pad pitch_56 duration_11
+position_8 instrument_pad pitch_63 duration_11
+position_8 instrument_pad pitch_67 duration_11
+position_11 instrument_music-box pitch_103 duration_8
+beat_49
+position_0 instrument_piano pitch_35 duration_12
+position_0 instrument_vibraphone pitch_68 duration_36
+position_0 instrument_strings pitch_68 duration_36
+position_0 instrument_strings pitch_76 duration_36
+position_0 instrument_strings pitch_79 duration_36
+position_1 instrument_pad pitch_75 duration_15
+position_1 instrument_pad pitch_76 duration_15
+position_1 instrument_pad pitch_79 duration_10
+position_1 instrument_music-box pitch_103 duration_8
+position_5 instrument_music-box duration_18
+end-of-song
