@@ -1,4 +1,4 @@
-**Generating Symbolic Music from Natural Language Prompts using an LLM-Enhanced Dataset**
+# Generating Symbolic Music from Natural Language Prompts using an LLM-Enhanced Dataset 
 
 Weihan Xu, Julian McAuley, Taylor Berg-Kirkpatrick, Shlomo Dubnov, Hao-Wen Dong
 
@@ -40,4 +40,5 @@ We collect 963K songs paired with musical scores and metadata from the MuseScore
 
 ---
 
-### Evaluation Results
+## Contacts
+Weihan Xu: weihan.xu@duke.edu
