@@ -1,6 +1,6 @@
 theme: jekyll-theme-modernist
-title: Demo Page
-description: 
+title: Generating Symbolic Music from Natural Language Prompts using an LLM-Enhanced Dataset
+description: The 26th conference of the International Society for Music Information Retrieval (ISMIR 2025)
 show_downloads: false
 icons:
   homepage: fa-solid fa-globe-asia
