@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-<strong><a href="https://github.com/wx83/TeaserGen_Official/tree/main"> [Codebase] </a></strong> &emsp;
-<strong><a href="https://arxiv.org/pdf/2410.05586"> [Paper] </a></strong>
+<strong><a href="https://github.com/wx83/MetaScore_Official/tree/codebase"> [Codebase] </a></strong> &emsp;
+<strong><a href="https://arxiv.org/pdf/2410.02084"> [Paper] </a></strong>
 </p>
 
 # Content
