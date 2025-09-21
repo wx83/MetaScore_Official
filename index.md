@@ -1,3 +1,17 @@
+<p align="center">
+<strong><a href="https://wx83.github.io/">Weihan Xu</a></strong> <sup>1</sup> &emsp;
+<strong><a href="https://cseweb.ucsd.edu/~jmcauley/">Julian McAuley</a></strong> <sup>2</sup> &emsp;
+<strong><a href="https://cseweb.ucsd.edu/~tberg/">Taylor Berg-Kirkpatrick</a></strong> <sup>2</sup> &emsp;
+<strong><a href="https://music-cms.ucsd.edu/people/faculty/regular_faculty/shlomo-dubnov/index.html">Shlomo Dubnov</a></strong> <sup>2</sup> &emsp;
+<strong><a href="https://salu133445.github.io/">Hao-Wen Dong</a></strong> <sup>2,3</sup><br>
+<sup>1</sup> Duke University &emsp;<sup>2</sup> University of California San Diego &emsp;<sup>3</sup> University of Michigan
+</p>
+
+<p align="center">
+<strong><a href="https://github.com/wx83/TeaserGen_Official/tree/main"> [Codebase] </a></strong> &emsp;
+<strong><a href="https://arxiv.org/pdf/2410.05586"> [Paper] </a></strong>
+</p>
+
 # Content
 1. Selected Tag- and Text-Conditioned Generation Examples
 2. Summary of MetaScore Dataset
