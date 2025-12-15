@@ -9,7 +9,8 @@
 
 <p align="center">
 <strong><a href="https://github.com/wx83/MetaScore_Official/tree/codebase"> [Codebase] </a></strong> &emsp;
-<strong><a href="https://arxiv.org/pdf/2410.02084"> [Paper] </a></strong>
+<strong><a href="https://arxiv.org/pdf/2410.02084"> [Paper] </a></strong>&emsp;
+<strong><a href="https://zenodo.org/records/17290490?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjE5NzhkMDUzLTAzYjQtNDEwNC1iYTQxLTk3ZGI4MTFjOGRmYSIsImRhdGEiOnt9LCJyYW5kb20iOiIzNzJkYmI1YTFhODQ4OTVlOTExZTY0ODFlNDljYmUzZCJ9.MXJU146ZPly6kecnzKQ-CMoa0XHO6ZSdrKca5U0fCiO8WQVyxXEvVLuu49Nn4r4t33SkFb4Y2bNDGKZYGSYCiw"> [Data] </a></strong>&emsp;
 </p>
 
 # Content
@@ -245,3 +246,4 @@ To evaluate the quality of our dataset, we used the rating entry (MetaScore-Raw)
 |A classical music piece composed by Michael Jackson. |{% include audio_player.html filename="audio/Text/mjpiano.wav" %} |{% include audio_player.html filename="audio/HuggingfaceWAV/mjpiano.wav" %} 
 
 </div>
+
